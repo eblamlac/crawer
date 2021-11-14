@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="clayawky">
+    <output-path>$PROJECT_DIR$/out/artifacts/clayawky</output-path>
+    <root id="root">
+      <element id="archive" name="clayawky.jar">
+        <element id="module-output" name="clayawky" />
+      </element>
+    </root>
+  </artifact>
+</component>
